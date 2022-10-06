@@ -1,0 +1,140 @@
+// get api from "News Api"
+
+// To use this article in componenent -- articles of news api from my Api key is composed in an array in component  i.e  //  articles = []
+
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ukraine war: What will Russia's losses mean for Putin?",
+      "description": "Questions are being asked as even state media reported the \"tough\" week, says the BBC's Russia editor.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62879367",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18482/production/_126685499_252771221c1634a227ff2d64e74683466cf0b268.jpg",
+      "publishedAt": "2022-09-12T14:07:20.9080927Z",
+      "content": "By Steve RosenbergRussia Editor, Moscow\r\nYou can normally expect Russian state TV's flagship weekly news programme to trumpet Kremlin successes. \r\nBut yesterday's edition opened with a rare admission… [+5465 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ukraine war: A successful surprise attack - but danger still looms",
+      "description": "The BBC's defence correspondent looks at what's behind Ukraine's potential breakthrough in the east.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62879363",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/67B4/production/_126684562_mediaitem126684561.jpg",
+      "publishedAt": "2022-09-12T13:07:21.0192249Z",
+      "content": "Ukraine says it has made significant gains in pushing back Russian troops, retaking more than 3,000 sq km (1,158 sq miles) of territory in recent days. Jonathan Beale, the BBC's defence correspondent… [+4562 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "100-year-old gets royal telegram day after Queen's death",
+      "description": "Gwendolyn Hoare's niece wrote about the surprise on the BBC's online tribute page to the Queen.",
+      "url": "http://www.bbc.co.uk/news/uk-62878724",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/58C8/production/_126682722_p0czx1c3.jpg",
+      "publishedAt": "2022-09-12T12:52:18.6729622Z",
+      "content": "Gwendolyn Hoare thought her chances of receiving a 100th birthday card from Queen Elizabeth II were gone when the monarch died on 8 September. \r\nBut to her surprise one came through the post on Frida… [+386 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Modern slavery shoots up by 10 million in five years",
+      "description": "More than half of forced labour happens in richer countries, with women and children most at risk.",
+      "url": "http://www.bbc.co.uk/news/world-62877388",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B3AD/production/_126679954_childgetty.jpg",
+      "publishedAt": "2022-09-12T11:37:20.2129099Z",
+      "content": "By David MolloyBBC News\r\nModern slavery is a growing challenge thanks to a mix of armed conflict, climate change and the global pandemic, a new UN report says. \r\nInternational Labour Organisation (IL… [+2465 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "Teenager Alcaraz wins US Open to earn first major",
+      "description": "Spanish teenager Carlos Alcaraz fulfils his potential to become a Grand Slam champion and world number one by beating Casper Ruud in the US Open final.",
+      "url": "http://www.bbc.co.uk/sport/tennis/62872605",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/7901/production/_126677903_gettyimages-1422911489.jpg",
+      "publishedAt": "2022-09-12T10:37:33.766074Z",
+      "content": "Carlos Alcaraz is the first teenager to become the men's world number one\r\nSpanish teenager Carlos Alcaraz fulfilled his potential as a future Grand Slam champion and world number one by beating Casp… [+5376 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Japan could lift cap on foreign tourists to lift economy",
+      "description": "Officials are concerned at the yen's slide to its lowest level against the US dollar in 24 years.",
+      "url": "http://www.bbc.co.uk/news/business-62873518",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4FA3/production/_126678302_gettyimages-1316215495.jpg",
+      "publishedAt": "2022-09-12T10:37:23.5633453Z",
+      "content": "By Monica MillerBBC News, Singapore\r\nJapanese officials may further relax border controls for foreign travellers as a way to boost its economy, local reports say.\r\nDeputy Chief Cabinet Secretary Seij… [+991 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ukraine war: Russians 'outnumbered 8-1' in counter-attack",
+      "description": "Ukraine's army makes significant territorial gains, while Russia hits back with missiles.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62874557",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17315/production/_126679949_gettyimages-1243135084.jpg",
+      "publishedAt": "2022-09-12T10:22:18.5473369Z",
+      "content": "By Merlyn ThomasBBC News\r\nUkrainian forces outnumbered Russians by eight to one in last week's counter-attack in the Kharkiv region, Russia's top occupation official there says. \r\nVitaly Ganchev told… [+1683 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "China Covid lockdowns leave residents short of food and essential items",
+      "description": "People are appealing for help on social media as food, medicine and sanitary pad supplies dwindle.",
+      "url": "http://www.bbc.co.uk/news/world-asia-china-62830326",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/53EF/production/_126678412_gettyimages-1419860766.jpg",
+      "publishedAt": "2022-09-12T08:07:20.8295901Z",
+      "content": "Residents under Covid lockdowns in areas across China are complaining of shortages of food and essential items.\r\nTens of millions of people in at least 30 regions have been ordered to stay at home un… [+3549 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Sweden election: Result could take days as vote too close to call",
+      "description": "Anti-immigration Sweden Democrats set to become the second largest party with vote too close to call.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62872545",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3955/production/_126677641_anderssonreuters.jpg",
+      "publishedAt": "2022-09-12T03:52:17.7258753Z",
+      "content": "By Elsa Maishman &amp; Alex BinleyBBC News\r\nSweden's election was too close to call on Sunday night, Prime Minister Magdalena Andersson said.\r\nExit polls at first predicted victory for the incumbent … [+3405 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Prince Andrew to care for Queen's beloved corgis",
+      "description": "The Queen's second son and his ex-wife Sarah, Duchess of York will now look after her iconic dogs.",
+      "url": "http://www.bbc.co.uk/news/uk-62870783",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11E29/production/_126675237_c82a2e583aead6f8579fd2636408097a6da8e599.jpg",
+      "publishedAt": "2022-09-11T17:52:21.1786628Z",
+      "content": "Queen Elizabeth II's corgis are going to live with her son Prince Andrew and his ex-wife, the BBC has confirmed.\r\nThe Duke of York and Sarah, Duchess of York will take on Muick and Sandy - two young … [+2711 chars]"
+    }
+  ]
+}
